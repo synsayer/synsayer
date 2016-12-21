@@ -1,0 +1,1364 @@
+fileFormatVersion: 2
+guid: 76a25ee6bc7983f4e8ee02c49df759a2
+timeCreated: 1482292128
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bellclassic_0
+    21300002: Bellclassic_1
+    21300004: Bellclassic_2
+    21300006: Bellclassic_3
+    21300008: Bellclassic_4
+    21300010: Bellclassic_5
+    21300012: Bellclassic_6
+    21300014: Bellclassic_7
+    21300016: Bellclassic_8
+    21300018: Bellclassic_9
+    21300020: Bellclassic_10
+    21300022: Bellclassic_11
+    21300024: Bellclassic_12
+    21300026: Bellclassic_13
+    21300028: Bellclassic_14
+    21300030: Bellclassic_15
+    21300032: Bellclassic_16
+    21300034: Bellclassic_17
+    21300036: Bellclassic_18
+    21300038: Bellclassic_19
+    21300040: Bellclassic_20
+    21300042: Bellclassic_21
+    21300044: Bellclassic_22
+    21300046: Bellclassic_23
+    21300048: Bellclassic_24
+    21300050: Bellclassic_25
+    21300052: Bellclassic_26
+    21300054: Bellclassic_27
+    21300056: Bellclassic_28
+    21300058: Bellclassic_29
+    21300060: Bellclassic_30
+    21300062: Bellclassic_31
+    21300064: Bellclassic_32
+    21300066: Bellclassic_33
+    21300068: Bellclassic_34
+    21300070: Bellclassic_35
+    21300072: Bellclassic_36
+    21300074: Bellclassic_37
+    21300076: Bellclassic_38
+    21300078: Bellclassic_39
+    21300080: Bellclassic_40
+    21300082: Bellclassic_41
+    21300084: Bellclassic_42
+    21300086: Bellclassic_43
+    21300088: Bellclassic_44
+    21300090: Bellclassic_45
+    21300092: Bellclassic_46
+    21300094: Bellclassic_47
+    21300096: Bellclassic_48
+    21300098: Bellclassic_49
+    21300100: Bellclassic_50
+    21300102: Bellclassic_51
+    21300104: Bellclassic_52
+    21300106: Bellclassic_53
+    21300108: Bellclassic_54
+    21300110: Bellclassic_55
+    21300112: Bellclassic_56
+    21300114: Bellclassic_57
+    21300116: Bellclassic_58
+    21300118: Bellclassic_59
+    21300120: Bellclassic_60
+    21300122: Bellclassic_61
+    21300124: Bellclassic_62
+    21300126: Bellclassic_63
+    21300128: Bellclassic_64
+    21300130: Bellclassic_65
+    21300132: Bellclassic_66
+    21300134: Bellclassic_67
+    21300136: Bellclassic_68
+    21300138: Bellclassic_69
+    21300140: Bellclassic_70
+    21300142: Bellclassic_71
+    21300144: Bellclassic_72
+    21300146: Bellclassic_73
+    21300148: Bellclassic_74
+    21300150: Bellclassic_75
+    21300152: Bellclassic_76
+    21300154: Bellclassic_77
+    21300156: Bellclassic_78
+    21300158: Bellclassic_79
+    21300160: Bellclassic_80
+    21300162: Bellclassic_81
+    21300164: Bellclassic_82
+    21300166: Bellclassic_83
+    21300168: Bellclassic_84
+    21300170: Bellclassic_85
+    21300172: Bellclassic_86
+    21300174: Bellclassic_87
+    21300176: Bellclassic_88
+    21300178: Bellclassic_89
+    21300180: Bellclassic_90
+    21300182: Bellclassic_91
+    21300184: Bellclassic_92
+    21300186: Bellclassic_93
+    21300188: Bellclassic_94
+    21300190: Bellclassic_95
+    21300192: Bellclassic_96
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bellclassic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 971
+        width: 215
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 972
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 972
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 974
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 974
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 974
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 974
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 974
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 974
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 974
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_16
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 972
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 988
+        width: 653
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_18
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 989
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_19
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 989
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_20
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 989
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_21
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 952
+        width: 264
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_22
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 915
+        width: 240
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_23
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 961
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_24
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 961
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_25
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 961
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_26
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 952
+        width: 656
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 656
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_28
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 877
+        width: 281
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_29
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 920
+        width: 102
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_30
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 920
+        width: 82
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_31
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 901
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_32
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 561
+        width: 130
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_33
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 561
+        width: 130
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_34
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 916
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_35
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 858
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_36
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 858
+        width: 197
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_37
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 849
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_38
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 821
+        width: 110
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_39
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 869
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_40
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 869
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_41
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 869
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_42
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 869
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_43
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 524
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_44
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 524
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 677
+        height: 833
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_46
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 794
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_47
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 742
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_48
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 689
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_49
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 689
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_50
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 703
+        width: 110
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_51
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 633
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_52
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 535
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_53
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 0
+        width: 210
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_54
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 523
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_55
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 523
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_56
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 523
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_57
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 522
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_58
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 524
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_59
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 524
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_60
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 524
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_61
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 524
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_62
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 524
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_63
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 524
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_64
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 524
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_65
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 524
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_66
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 524
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_67
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 414
+        width: 110
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_68
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 422
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_69
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 412
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_70
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 394
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_71
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 394
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_72
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 394
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_73
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 0
+        width: 48
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_74
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 349
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_75
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 349
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_76
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 279
+        width: 115
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_77
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 270
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_78
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 260
+        width: 218
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_79
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 365
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_80
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 365
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_81
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 321
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_82
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 321
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_83
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 260
+        width: 218
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_84
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 262
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_85
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 140
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_86
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 148
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_87
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 142
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_88
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 7
+        width: 122
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_89
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 14
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_90
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 9
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_91
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 108
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_92
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 80
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_93
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 41
+        width: 149
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_94
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 318
+        width: 208
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_95
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 3
+        width: 536
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_96
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 0
+        width: 152
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
