@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 76a25ee6bc7983f4e8ee02c49df759a2
-timeCreated: 1482292128
+timeCreated: 1482464591
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -57,7 +57,7 @@ TextureImporter:
     21300100: Bellclassic_50
     21300102: Bellclassic_51
     21300104: Bellclassic_52
-    21300106: Bellclassic_53
+    21300106: left_frame
     21300108: Bellclassic_54
     21300110: Bellclassic_55
     21300112: Bellclassic_56
@@ -98,7 +98,7 @@ TextureImporter:
     21300182: Bellclassic_91
     21300184: Bellclassic_92
     21300186: Bellclassic_93
-    21300188: Bellclassic_94
+    21300188: right_frame
     21300190: Bellclassic_95
     21300192: Bellclassic_96
   serializedVersion: 4
@@ -171,6 +171,14 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -192,7 +200,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 222
-        y: 972
+        y: 971
         width: 60
         height: 39
       alignment: 0
@@ -206,72 +214,7 @@ TextureImporter:
         serializedVersion: 2
         x: 287
         y: 972
-        width: 50
-        height: 41
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Bellclassic_9
-      rect:
-        serializedVersion: 2
-        x: 338
-        y: 974
-        width: 16
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Bellclassic_10
-      rect:
-        serializedVersion: 2
-        x: 364
-        y: 974
-        width: 17
-        height: 41
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Bellclassic_11
-      rect:
-        serializedVersion: 2
-        x: 383
-        y: 974
-        width: 17
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Bellclassic_12
-      rect:
-        serializedVersion: 2
-        x: 402
-        y: 974
-        width: 7
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Bellclassic_13
-      rect:
-        serializedVersion: 2
-        x: 411
-        y: 974
-        width: 21
+        width: 144
         height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -282,10 +225,10 @@ TextureImporter:
       name: Bellclassic_14
       rect:
         serializedVersion: 2
-        x: 459
-        y: 974
-        width: 17
-        height: 39
+        x: 441
+        y: 972
+        width: 96
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,19 +242,6 @@ TextureImporter:
         y: 974
         width: 17
         height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Bellclassic_16
-      rect:
-        serializedVersion: 2
-        x: 478
-        y: 972
-        width: 54
-        height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,19 +430,6 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Bellclassic_31
-      rect:
-        serializedVersion: 2
-        x: 1197
-        y: 901
-        width: 37
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
       name: Bellclassic_32
       rect:
         serializedVersion: 2
@@ -572,19 +489,6 @@ TextureImporter:
         y: 858
         width: 197
         height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Bellclassic_37
-      rect:
-        serializedVersion: 2
-        x: 1192
-        y: 849
-        width: 46
-        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -695,45 +599,6 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Bellclassic_46
-      rect:
-        serializedVersion: 2
-        x: 1198
-        y: 794
-        width: 37
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Bellclassic_47
-      rect:
-        serializedVersion: 2
-        x: 1195
-        y: 742
-        width: 41
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Bellclassic_48
-      rect:
-        serializedVersion: 2
-        x: 1196
-        y: 689
-        width: 41
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
       name: Bellclassic_49
       rect:
         serializedVersion: 2
@@ -760,19 +625,6 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Bellclassic_51
-      rect:
-        serializedVersion: 2
-        x: 1195
-        y: 633
-        width: 42
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
       name: Bellclassic_52
       rect:
         serializedVersion: 2
@@ -786,13 +638,13 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Bellclassic_53
+      name: left_frame
       rect:
         serializedVersion: 2
-        x: 1222
+        x: 1363
         y: 0
-        width: 210
-        height: 560
+        width: 69
+        height: 558
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1055,7 +907,7 @@ TextureImporter:
         height: 390
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 10, y: 10, z: 10, w: 10}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
@@ -1111,19 +963,6 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Bellclassic_78
-      rect:
-        serializedVersion: 2
-        x: 1826
-        y: 260
-        width: 218
-        height: 103
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
       name: Bellclassic_79
       rect:
         serializedVersion: 2
@@ -1170,19 +1009,6 @@ TextureImporter:
         y: 321
         width: 31
         height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Bellclassic_83
-      rect:
-        serializedVersion: 2
-        x: 1826
-        y: 260
-        width: 218
-        height: 103
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1319,13 +1145,13 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Bellclassic_94
+      name: right_frame
       rect:
         serializedVersion: 2
         x: 678
-        y: 318
-        width: 208
-        height: 559
+        y: 316
+        width: 69
+        height: 560
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1337,8 +1163,8 @@ TextureImporter:
         serializedVersion: 2
         x: 682
         y: 3
-        width: 536
-        height: 311
+        width: 534
+        height: 308
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1352,6 +1178,84 @@ TextureImporter:
         y: 0
         width: 152
         height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_1
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 810
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_2
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 810
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_3
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 810
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_4
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 918
+        width: 241
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_6
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 392
+        width: 241
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bellclassic_7
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 311
+        width: 60
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
