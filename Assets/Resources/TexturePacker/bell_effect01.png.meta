@@ -1,0 +1,1395 @@
+fileFormatVersion: 2
+guid: 262db630f76df5d40955be428a0baac1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: instance101
+    21300002: instance102
+    21300004: instance106
+    21300006: instance108
+    21300008: instance110
+    21300010: instance112
+    21300012: instance114
+    21300014: instance116
+    21300016: instance118
+    21300018: instance120
+    21300020: instance122
+    21300022: instance124
+    21300024: instance126
+    21300026: instance128
+    21300028: instance130
+    21300030: instance132
+    21300032: instance134
+    21300034: instance136
+    21300036: instance138
+    21300038: instance140
+    21300040: instance142
+    21300042: instance144
+    21300044: instance146
+    21300046: instance148
+    21300048: instance150
+    21300050: instance152
+    21300052: instance154
+    21300054: instance156
+    21300056: instance158
+    21300058: instance160
+    21300060: instance162
+    21300062: instance164
+    21300064: instance166
+    21300066: bellclassic_freespin_multiply_100
+    21300068: bellclassic_freespin_multiply_102
+    21300070: bellclassic_freespin_multiply_104
+    21300072: bellclassic_freespin_plus_135
+    21300074: bellclassic_freespin_plus_137
+    21300076: bellclassic_freespin_plus_139
+    21300078: bellclassic_jackotscene_101
+    21300080: bellclassic_jackotscene_102
+    21300082: bellclassic_jackpotinfoani_101
+    21300084: bellclassic_picture_1_ani_instance101
+    21300086: bellclassic_picture_2_ani_instance101
+    21300088: bellclassic_scatter_1_229
+    21300090: bellclassic_scatter_1_231
+    21300092: bellclassic_scatter_1_233
+    21300094: bellclassic_scatter_1_235
+    21300096: bellclassic_scatter_jackpot_278
+    21300098: bellclassic_scatter_jackpot_280
+    21300100: bellclassic_scatter_shake_302
+    21300102: bellclassic_scatter_shake_304
+    21300104: bellclassic_scatter_shake_306
+    21300106: bellclassic_wild_1_335
+    21300108: bellclassic_wild_1_337
+    21300110: bellclassic_wild_1_339
+    21300112: bellclassicjackpotappearence_101
+    21300114: bellclassicjackpotappearence_103
+    21300116: bellclassicjackpotappearence_105
+    21300118: bellclassicjackpotappearence_107
+    21300120: bellclassicjackpotappearence_109
+    21300122: bellclassicwinjackpot_101
+    21300124: bellclassicwinjackpot_102
+    21300126: bellclassicwinjackpot_104
+    21300128: bellclassicwinjackpotloop_591
+    21300130: bellclassicwinjackpotloop_593
+    21300132: bellclassicwinjackpotloop_595
+    21300134: bellclassicwinjackpotloop_597
+    21300136: bellclassicwinjackpotloop_599
+    21300138: bellclassicwinjackpotloop_601
+    21300140: bellclassicwinjackpotloop_603
+    21300142: bellclassicwinjackpotloop_605
+    21300144: bellclassicwinjackpotloop_607
+    21300146: bellclassicwinjackpotloop_609
+    21300148: bellclassicwinjackpotloop_611
+    21300150: bellclassicwinjackpotloop_613
+    21300152: bellclassicwinjackpotloop_615
+    21300154: bellclassicwinjackpotloop_617
+    21300156: bellclassicwinjackpotloop_619
+    21300158: bellclassicwinjackpotloop_621
+    21300160: bellclassicwinjackpotloop_623
+    21300162: bellclassicwinjackpotloop_625
+    21300164: bellclassicwinjackpotloop_627
+    21300166: instance117
+    21300168: instance133
+    21300170: instance149
+    21300172: instance165
+    21300174: instance181
+    21300176: instance197
+    21300178: instance213
+    21300180: jackpotspecialwildsymbol_100
+    21300182: jackpotspecialwildsymbol_102
+    21300184: jackpot_info_img
+    21300186: loop_txt_add_0001
+    21300188: loop_txt_add_0002
+    21300190: loop_txt_add_0003
+    21300192: loop_txt_add_0004
+    21300194: loop_txt_add_0005
+    21300196: loop_txt_add_0006
+    21300198: loop_txt_add_0007
+    21300200: loop_txt_add_0008
+    21300202: loop_txt_add_0009
+    21300204: loop_txt_add_0010
+    21300206: loop_txt_add_0011
+    21300208: loop_txt_add_0012
+    21300210: loop_txt_add_0013
+    21300212: loop_txt_add_0014
+    21300214: loop_txt_add_0015
+    21300216: loop_txt_add_0016
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 1
+    overridden: 1
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 1
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bellclassic_freespin_multiply_100
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1974
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_freespin_multiply_102
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1900
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_freespin_multiply_104
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1720
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_freespin_plus_135
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1826
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_freespin_plus_137
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1752
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_freespin_plus_139
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1720
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_jackotscene_101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1654
+        width: 652
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_jackotscene_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 513
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_jackpotinfoani_101
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1687
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_picture_1_ani_instance101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 59
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_picture_2_ani_instance101
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 59
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_scatter_1_229
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 59
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_scatter_1_231
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1504
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_scatter_1_233
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 59
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_scatter_1_235
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 28
+        width: 118
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_scatter_jackpot_278
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 59
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_scatter_jackpot_280
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 59
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_scatter_shake_302
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 750
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_scatter_shake_304
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 203
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_scatter_shake_306
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 203
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_wild_1_335
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 69
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_wild_1_337
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 19
+        width: 106
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassic_wild_1_339
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 69
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassicjackpotappearence_101
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1110
+        width: 132
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassicjackpotappearence_103
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 716
+        width: 132
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassicjackpotappearence_105
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 716
+        width: 132
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassicjackpotappearence_107
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 322
+        width: 132
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassicjackpotappearence_109
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1110
+        width: 133
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassicwinjackpot_101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1654
+        width: 652
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassicwinjackpot_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 513
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassicwinjackpot_104
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 926
+        width: 578
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassicwinjackpotloop_591
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1654
+        width: 652
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassicwinjackpotloop_593
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 513
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bellclassicwinjackpotloop_595
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 926
+        width: 578
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 513
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance106
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 926
+        width: 578
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance108
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1957
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance110
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1957
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance112
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1866
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance114
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1866
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance116
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1775
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance117
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 883
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance118
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1775
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance120
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1684
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance122
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1684
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance124
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1593
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance126
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1593
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance128
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1563
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance130
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1502
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1472
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance133
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 749
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance134
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1502
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance136
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1411
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance138
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1381
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance140
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1411
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance142
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1320
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance144
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1290
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance146
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1320
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance148
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1229
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance149
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 883
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance150
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1199
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance152
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1229
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance154
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1138
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance156
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1108
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance158
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1138
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance160
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1047
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance162
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1017
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance164
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1047
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance165
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 749
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance166
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 792
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance181
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 883
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance197
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 749
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: instance213
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 883
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jackpot_info_img
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1691
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jackpotspecialwildsymbol_100
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 716
+        width: 132
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jackpotspecialwildsymbol_102
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1640
+        width: 144
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0001
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 958
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0002
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 869
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0003
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 780
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0004
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 627
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0005
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 538
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0006
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 449
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0007
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 360
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0008
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 271
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0009
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 627
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0010
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 538
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0011
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 449
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0012
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 360
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0013
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 271
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0014
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 182
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0015
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 182
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: loop_txt_add_0016
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 93
+        width: 577
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

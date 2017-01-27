@@ -13,4 +13,10 @@ public class BellclassicSceneManager : MonoBehaviour {
 	void Update () {
 		
 	}
+
+
+	public void OnClickSpin()
+	{
+		Debug.Log ("Spin");
+	}
 }

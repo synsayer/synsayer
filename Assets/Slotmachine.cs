@@ -8,6 +8,11 @@ public class Slotmachine : MonoBehaviour {
 	List<Reelmachine> m_oReels;
 	// Use this for initialization
 	void Start () {
+		
+	}
+
+	public void Spin()
+	{
 		StartCoroutine (crt_Spin ());
 	}
 
