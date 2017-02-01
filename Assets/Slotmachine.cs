@@ -21,9 +21,18 @@ public class Slotmachine : MonoBehaviour {
 		if (null != m_oReels) {
 			for (int i = 0; i < m_oReels.Count; i++) {
 				m_oReels [i].Roll ();
-				yield return new WaitForSeconds (0.1f);
+				yield return new WaitForSeconds (0.05f);
+			}
+
+			yield return new WaitForSeconds (2f);
+
+			for (int i = 0; i < m_oReels.Count; i++) {
+				m_oReels [i].ReserveStop ();
+				yield return new WaitForSeconds (0.5f);
 			}
 		}
+
+
 	}
 	
 	// Update is called once per frame
