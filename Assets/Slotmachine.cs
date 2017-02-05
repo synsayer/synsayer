@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+using FrameWork.Controller;
+
 public class Slotmachine : MonoBehaviour {
 
 	[SerializeField]
@@ -31,8 +33,13 @@ public class Slotmachine : MonoBehaviour {
 				yield return new WaitForSeconds (0.5f);
 			}
 		}
+		yield return new WaitForSeconds (1f);
 
 
+		SceneManager sceneManager = ControllerBase.getView<SceneManager> ();
+		if (null != sceneManager) {
+			sceneManager.BroadcastMessage ("showMoneyEffect");
+		}
 	}
 	
 	// Update is called once per frame
