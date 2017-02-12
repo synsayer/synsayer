@@ -6,19 +6,19 @@ using Holoville.HOTween;
 public class Reelmachine : MonoBehaviour 
 {
 	[SerializeField]
-	List<Symbol> m_oSymbols;
+	List<Symbol> symbols;
 
 	bool readyToStop;
 
 	// Use this for initialization
 	void Start () 
 	{	
-		if (null != m_oSymbols) {
-			float fTop = Helper.GetTopSymbolPosition (m_oSymbols);
-			float fBottom = Helper.GetBottomSymbolPosition (m_oSymbols);
+		if (null != symbols) {
+			float fTop = Helper.GetTopSymbolPosition (symbols);
+			float fBottom = Helper.GetBottomSymbolPosition (symbols);
 
-			for (int i = 0; i < m_oSymbols.Count; i++) {
-				Symbol oSymbol = m_oSymbols [i];
+			for (int i = 0; i < symbols.Count; i++) {
+				Symbol oSymbol = symbols [i];
 				if (null != oSymbol) {
 					oSymbol.SetBoundary (fTop, fBottom);
 				}
@@ -26,13 +26,13 @@ public class Reelmachine : MonoBehaviour
 		}
 
 
-//		StartCoroutine (crt_Roll ());
+//		StartCoroutine (Co_Roll ());
 	}
 
 	public void Roll()
 	{
 		readyToStop = false;
-		StartCoroutine (crt_Roll ());
+		StartCoroutine (Co_Roll ());
 	}
 
 
@@ -41,7 +41,7 @@ public class Reelmachine : MonoBehaviour
 		readyToStop = true;
 	}
 
-	IEnumerator crt_Prepare()
+	IEnumerator Co_Prepare()
 	{
 		Vector3 pt = transform.localPosition;
 		pt.y += 30;
@@ -53,17 +53,17 @@ public class Reelmachine : MonoBehaviour
 
 	}
 
-	IEnumerator crt_Roll()
+	IEnumerator Co_Roll()
 	{
-		yield return StartCoroutine (crt_Prepare ());
+		yield return StartCoroutine (Co_Prepare ());
 
 //		int nTotalStepCnt = 50;
 		float fStepDura = 0.05f;
 		while (false == readyToStop) {
 //			nTotalStepCnt--;
 
-			for (int i = 0; i < m_oSymbols.Count; i++) {
-				Symbol oSymbol = m_oSymbols [i];
+			for (int i = 0; i < symbols.Count; i++) {
+				Symbol oSymbol = symbols [i];
 				if (null != oSymbol) {
 					oSymbol.StepDown (-110f, fStepDura);
 				}
@@ -72,11 +72,11 @@ public class Reelmachine : MonoBehaviour
 			yield return new WaitForSeconds(fStepDura);		
 		}
 
-		yield return StartCoroutine (crt_Finish ());
+		yield return StartCoroutine (Co_Finish ());
 
 	}
 
-	IEnumerator crt_Finish()
+	IEnumerator Co_Finish()
 	{
 		Vector3 pt = transform.localPosition;
 		pt.y -= 55;
@@ -109,18 +109,18 @@ public class Reelmachine : MonoBehaviour
 //
 //	void Roll(float fDelta)
 //	{
-//		if (null != m_oSymbols) {
-//			for (int i = 0; i < m_oSymbols.Count; i++) {
-//				Symbol oSymbol = m_oSymbols [i];
+//		if (null != symbols) {
+//			for (int i = 0; i < symbols.Count; i++) {
+//				Symbol oSymbol = symbols [i];
 //				if (null != oSymbol) {
 //					oSymbol.TranslateY (fDelta);
 //				}
 //			}
 //
-//			for (int i = 0; i < m_oSymbols.Count; i++) {
-//				Symbol oSymbol = m_oSymbols [i];
+//			for (int i = 0; i < symbols.Count; i++) {
+//				Symbol oSymbol = symbols [i];
 //				if (null != oSymbol) {
-//					oSymbol.ThrowTopIfBottom (m_fBottom, m_oSymbols, 110);
+//					oSymbol.ThrowTopIfBottom (m_fBottom, symbols, 110);
 //				}
 //			}
 //		}

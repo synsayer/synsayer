@@ -7,7 +7,7 @@ using FrameWork.Controller;
 public class Slotmachine : MonoBehaviour {
 
 	[SerializeField]
-	List<Reelmachine> m_oReels;
+	List<Reelmachine> reels;
 	// Use this for initialization
 	void Start () {
 		
@@ -20,16 +20,16 @@ public class Slotmachine : MonoBehaviour {
 
 	IEnumerator crt_Spin()
 	{
-		if (null != m_oReels) {
-			for (int i = 0; i < m_oReels.Count; i++) {
-				m_oReels [i].Roll ();
+		if (null != reels) {
+			for (int i = 0; i < reels.Count; i++) {
+				reels [i].Roll ();
 				yield return new WaitForSeconds (0.05f);
 			}
 
 			yield return new WaitForSeconds (2f);
 
-			for (int i = 0; i < m_oReels.Count; i++) {
-				m_oReels [i].ReserveStop ();
+			for (int i = 0; i < reels.Count; i++) {
+				reels [i].ReserveStop ();
 				yield return new WaitForSeconds (0.5f);
 			}
 		}
